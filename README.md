@@ -9,4 +9,4 @@
 #### 3. Create a sample config
 
 
-#### 4. Verify
+#### 4. Verification
