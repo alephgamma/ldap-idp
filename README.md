@@ -1,9 +1,12 @@
-# Lightweight LDAP as an Identity Provider (IdP)
+## Lightweight LDAP as an Identity Provider (IdP)
 
-### 1. Get and prepare the binary
-
-
-### 2. Create the certificate and key
+#### 1. Get and prepare the binary
 
 
-### 3. Create a sample config
+#### 2. Create the certificate and key
+
+
+#### 3. Create a sample config
+
+
+#### 4. Verify
