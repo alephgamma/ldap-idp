@@ -1,4 +1,4 @@
-## Lightweight LDAP as an Identity Provider (IdP)
+### Lightweight LDAP as an Identity Provider (IdP)
 
 #### 1. Get and prepare the binary
 
