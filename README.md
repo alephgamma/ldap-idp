@@ -9,4 +9,7 @@
 #### 3. Create a sample config
 
 
-#### 4. Verification
+#### 4. Start the binary
+
+
+#### 5. Verification
